@@ -1,0 +1,30 @@
+#um{
+    background-color: yellow;
+  }
+  #dois{
+    background-color: red;
+    text-decoration: green;
+    color: green;
+  }
+  #tres{
+    background-color: brown;
+    color: white;
+  }
+    #titulo {
+        font-family: sans-serif, Arial; 
+        color:orange;
+        font-size: 65px;
+    }
+    .taglist {
+        color: brown; }
+    #list {
+            background-color: cadetblue;
+            text-align: center;
+        }
+    .fontp {
+      font-size: 3em;
+          font-weight: 600;
+        }
+    body {
+      font-size: 16px;
+    }
